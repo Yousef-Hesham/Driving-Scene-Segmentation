@@ -68,7 +68,7 @@ Loading the model could be done by downloading the model from within the code, h
 
 ### Resulting Video Output
 
-<img src="read_me_images/demo.png">
+<img src="read_me_images/demo.gif">
 
 You can check the full video on [Youtube here](https://www.youtube.com/watch?v=TB9UoTPsahs).
 
